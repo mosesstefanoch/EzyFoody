@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460013386020",
+    "firebase_url": "https://androidezyfoody.firebaseio.com",
+    "project_id": "androidezyfoody",
+    "storage_bucket": "androidezyfoody.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460013386020:android:06ea81aed17a211f94dbb1",
+        "android_client_info": {
+          "package_name": "com.example.ezyfoody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460013386020-e409jaqihiqklsqjdr03re0cjud1orov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezyfoody",
+            "certificate_hash": "196514f7f6fdd6dfd9de2eb33a6c742c73228cdf"
+          }
+        },
+        {
+          "client_id": "460013386020-7dj7tk066m871glrv85ie0cq7aua753k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdl21fhR3_AgWo07CqYZXd41f2GTWXV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460013386020-7dj7tk066m871glrv85ie0cq7aua753k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
